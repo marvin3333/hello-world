@@ -1,4 +1,4 @@
 # hello-world
 first github tutorial
 
-I like github. it make me happy
+I like github. it makes me happy
